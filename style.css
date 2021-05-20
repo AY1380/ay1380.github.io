@@ -23,10 +23,6 @@ h1 {
 	margin-bottom: 2.5rem;
 }
 
-.experience {
-
-}
-
 .logo {
 	height: 56px;
 	width: 56px;
@@ -35,13 +31,22 @@ h1 {
 	font-size: 59px;
 }
 
-span {
+.company {
 	font-weight: bold;
 }
 
 .uchi {
-	color: rgb(211, 126, 219);
+	color: #ff6272;
 }
 .sber {
-	color:rgb(73 164 62);
+	color: rgb(8, 166, 82);
+}
+
+.date {
+	color: white;
+	opacity: .3;
+}
+
+li {
+	color: rgba(255, 255, 255)
 }
